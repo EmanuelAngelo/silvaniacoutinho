@@ -140,9 +140,9 @@
   ])
 
   const contactItems = [
-    { href: 'https://wa.me/5511999999999', icon: Phone, label: 'WhatsApp', value: '+55 (11) 99999-9999' },
-    { href: 'https://instagram.com/drasilvaniacoutinho', icon: Instagram, label: 'Instagram', value: '@drasilvaniacoutinho' },
-    { href: 'mailto:contato@drasilvaniacoutinho.com', icon: Mail, label: 'Email', value: 'contato@drasilvaniacoutinho.com' },
+    { href: 'https://wa.me/+559891162402', icon: Phone, label: 'WhatsApp', value: '+55 (98) 9116-2402' },
+    { href: 'https://instagram.com/dra.silvaniacoutinho', icon: Instagram, label: 'Instagram', value: '@drasilvaniacoutinho' },
+    { href: 'mailto:silvaniacoutinho19@gmail.com', icon: Mail, label: 'Email', value: 'silvaniacoutinho19@gmail.com' },
   ]
 
   const form = reactive({

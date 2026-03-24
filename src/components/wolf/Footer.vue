@@ -80,8 +80,8 @@
   ])
 
   const contacts = [
-    { label: 'Instagram', href: 'https://instagram.com/drasilvaniacoutinho', icon: Instagram, text: '@drasilvaniacoutinho' },
-    { label: 'Email', href: 'mailto:contato@drasilvaniacoutinho.com', icon: Mail, text: 'contato@drasilvaniacoutinho.com' },
-    { label: 'WhatsApp', href: 'https://wa.me/5511999999999', icon: Phone, text: '+55 (11) 99999-9999' },
+    { label: 'Instagram', href: 'https://instagram.com/dra.silvaniacoutinho', icon: Instagram, text: '@dra.silvaniacoutinho' },
+    { label: 'Email', href: 'mailto:silvaniacoutinho19@gmail.com', icon: Mail, text: 'silvaniacoutinho19@gmail.com' },
+    { label: 'WhatsApp', href: 'https://wa.me/+559891162402', icon: Phone, text: '+55 (98) 9116-2402' },
   ]
 </script>
