@@ -32,6 +32,6 @@
   })
 
   const href = computed(() => {
-    return 'https://wa.me/5511999999999?text=' + encodeURIComponent(message.value)
+    return 'https://wa.me/559891162402?text=' + encodeURIComponent(message.value)
   })
 </script>

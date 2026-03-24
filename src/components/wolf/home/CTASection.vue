@@ -24,7 +24,7 @@
           </RouterLink>
           <a
             class="px-8 py-3 border border-gold/30 text-gold text-xs tracking-[0.25em] uppercase font-body hover:border-gold transition-colors"
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/559891162402"
             rel="noopener noreferrer"
             target="_blank"
           >
