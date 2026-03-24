@@ -12,9 +12,7 @@ export function publicAsset (path: string) {
 const portraitImage = 'silvania/silvania.jpeg'
 
 const heroImages = [
-  'data/hero/clinic-1.jpeg',
-  'data/hero/clinic-2.jpeg',
-  'data/hero/clinic-3.jpeg',
+  'odontowallpaper.jpg',
 ]
 
 const areaImages = {
